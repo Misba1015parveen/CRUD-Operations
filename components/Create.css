@@ -1,0 +1,38 @@
+
+
+body {
+    background-color: #f4f4f4;
+  }
+
+.container{
+    color:white;
+}  
+  
+  .form-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .btn-submit {
+    background-color: #4caf50;
+    color: #ffffff;
+  }
+  
+  .btn-submit:hover {
+    background-color: #45a049;
+  }
+  
+  .btn-back {
+    background-color: #333;
+  }
+  
+  .btn-back:hover {
+    background-color: #555;
+  }
+  

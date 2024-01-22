@@ -1,0 +1,34 @@
+
+
+body {
+    background-color: #f9f9f9;
+  }
+  
+  .form-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .btn-update {
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  
+  .btn-update:hover {
+    background-color: #0056b3;
+  }
+  
+  .btn-back {
+    background-color: #333;
+  }
+  
+  .btn-back:hover {
+    background-color: #555;
+  }
+  

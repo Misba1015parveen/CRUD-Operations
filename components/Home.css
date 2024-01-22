@@ -1,0 +1,46 @@
+
+
+body {
+    background: linear-gradient(to bottom, #0c0c0c, #383937);
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .container{
+    color: rgb(192, 252, 14);
+  }
+  .table-container {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .table th, .table td {
+    text-align: center;
+  }
+  
+  .btn-create {
+    background-color: #42d2dc;
+  }
+  
+  .btn-create:hover {
+    background-color: #0da0c9;
+  }
+  
+  .btn-update {
+    background-color: #007bff;
+  }
+  
+  .btn-update:hover {
+    background-color: #0056b3;
+  }
+  
+  .btn-delete {
+    background-color: #e74c3c;
+  }
+  
+  .btn-delete:hover {
+    background-color: #c0392b;
+  }
+  
